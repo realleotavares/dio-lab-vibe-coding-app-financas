@@ -1,7 +1,7 @@
 # Finanças Fácil - Vibe Coding
 
 ## Sobre o Projeto
-Este projeto é a entrega do desafio "Criando um App de Finanças Pessoais com IA" da DIO. O objetivo foi aplicar o conceito de Vibe Coding, utilizando o Microsoft Copilot para refinar um Product Requirement Document (PRD) e o Lovable para gerar um protótipo funcional de um aplicativo de finanças baseado em conversas em linguagem natural.
+Este projeto é a entrega do desafio "Criando um App de Finanças Pessoais com IA" da DIO / Riachuelo. O objetivo foi aplicar o conceito de Vibe Coding, utilizando o Microsoft Copilot para refinar um Product Requirement Document (PRD) e o Lovable para gerar um protótipo funcional de um aplicativo de finanças baseado em conversas em linguagem natural.
 
 ---
 
@@ -39,13 +39,24 @@ Educativo, acessível e em português simples, para facilitar a compreensão de 
 
 ---
 
-## Galeria: Interacoes com as IAs e Telas do App
+## Galeria: Interações com as IAs e Telas do App
 
 ### 1. Refinando o PRD no Copilot
 ![Print Copilot](assets/print-copilot.png)
 
-### 2. Geracao e Interacao no Lovable
+### 2. Geração e Interação no Lovable
 ![Print Lovable](assets/print-lovable.png)
+
+### 3. Telas do App
+![Print App 1](assets/print-app1.png)
+
+![Print App 2](assets/print-app2.png)
+
+![Print App 3](assets/print-app3.png)
+
+![Print App 4](assets/print-app4.png)
+
+![Print App 5](assets/print-app5.png)
 
 ---
 
@@ -73,7 +84,7 @@ O aplicativo gerado superou as expectativas do MVP e entregou:
 O processo de refinar o PRD previamente no Copilot foi fundamental. Ter os requisitos muito bem definidos (como o "Design Universal" e as "Funcionalidades-Chave") permitiu que o Lovable acertasse o aplicativo praticamente de primeira. A geração do banco de dados para persistência e os gráficos visuais foram criados de forma fluida.
 
 ### O que não funcionou como esperado?
-Como o processo fluiu muito bem, o maior desafio foi apenas manter o cuidado redobrado com o limite diário de interações do Lovable. A ferramenta se mostrou poderosa, mas exige que a engenharia do prompt inicial seja perfeita para não desperdiçar as tentativas gratuitas.
+Como o processo fluiu muito bem, o maior desafio foi apenas manter o cuidado redobrado com o limite diário de interações do Lovable. A ferramenta se mostrou poderosa, mas exige que a engenharia do prompt inicial seja "perfeita" para não desperdiçar as tentativas gratuitas.
 
 ### O que aprendi sobre conversar com IAs?
 Aprendi que no Vibe Coding, o segredo não é programar a máquina, mas sim saber como se comunicar com ela. A engenharia de prompts é a nova lógica de programação. Fornecer contexto, definir o problema, estruturar o público-alvo e impor regras claras (como o tom educativo) muda completamente a qualidade do resultado gerado pela IA.
