@@ -39,21 +39,19 @@ Educativo, acessível e em português simples, para facilitar a compreensão de 
 
 ---
 
-## Interações com o Lovable
+## Galeria: Interacoes com as IAs e Telas do App
 
-**Interação 1 (Única e Certeira):**
-> Cria um app de finanças pessoais com base no seguinte PRD: [Inclusão do PRD completo detalhado acima].
+### 1. Refinando o PRD no Copilot
+![Print Copilot](assets/print-copilot.png)
 
-Nota: O prompt foi tão bem estruturado no Copilot que o Lovable precisou de apenas uma interação principal para gerar o app funcional, fazendo apenas perguntas de clarificação sobre o uso de banco de dados e layout.
+### 2. Geracao e Interacao no Lovable
+![Print Lovable](assets/print-lovable.png)
 
 ---
 
 ## Resultado Final no Lovable
 
-**Link de acesso:** https://financafacil-ria.lovable.app
-
-### Telas do App:
-*(Adicione as imagens aqui editando pelo GitHub Web e usando Ctrl+V)*
+Link de acesso: https://financafacil-ria.lovable.app
 
 ---
 
